@@ -143,7 +143,7 @@ img.add_border {
                             <li><a href="./../blog/index.html">blog</a></li>
                         </ul>
                       </li>
-                     <li class='has-children'><a href='week.html'>week</a><ul class='dropdown'><li><a href='week1-week5.html'>week1-week5</a><li><a href='week6-week9.html'>week6-week9</a><li><a href='week10-week14.html'>week10-week14</a><li><a href='week15-week18.html'>week15-week18</a></li></ul><li><a href='Keyboard control car.html'>Keyboard control car</a><li><a href='Assignment.html'>Assignment</a></li>
+                     <li class='has-children'><a href='week.html'>week</a><ul class='dropdown'><li><a href='week1-week5.html'>week1-week5</a><li><a href='week6-week9.html'>week6-week9</a><li><a href='week10-week14.html'>week10-week14</a><li><a href='week15-week18.html'>week15-week18</a></li></ul><li class='has-children'><a href='Assignment.html'>Assignment</a><ul class='dropdown'><li><a href='assignment1.html'>assignment1</a><li><a href='assignment2.html'>assignment2</a><li><a href='assignment3.html'>assignment3</a></li></ul><li><a href='Group meeting.html'>Group meeting</a></li>
                       </ul>
                 </nav>
               </div>
@@ -155,6 +155,20 @@ img.add_border {
           
         </header>
     <div id="tipue_search_content">week1-week5 << <a href='week1-week5.html'>Previous</a> <a href='week10-week14.html'>Next</a> >> week10-week14<br /><h1>week6-week9</h1>
+<p><span style="color: #ff0000;"><strong>Keyboard control car</strong></span></p>
+<p>參考資料:<a href="https://s40723221.github.io/cd2020/content/Keyboard%20control%20car.html">組長</a></p>
+<p>將繪製好的，能直線運行的四輪車導入v-rep</p>
+<p><span>轉好後將零件所對應的相對運動位置依照圖示中的方式排序</span></p>
+<p>設定馬達將電機開啟<span class="fontstyle0"><span> (</span></span><span class="fontstyle2">add &gt; joint<span> </span></span><span class="fontstyle0">中加入所想要的馬達電機)</span></p>
+<p><span><img alt="" height="385" src="./../images/vrep_xXTwRZheNE.png" width="807"/></span></p>
+<p><span>勾選<span>motor enabled來</span><span>啟動馬達，調整轉動速度和力矩的參數</span></span></p>
+<p><span><span>勾選lock motor when target velocity is zero<span><span color="#000000">則可以使馬達速度為零時鎖定住馬達</span></span></span></span></p>
+<p><span><img src="https://s40723221.github.io/cd2020/images/tool2.png"/></span></p>
+<p><span>動力學屬性設定:物體的碰撞和動態都必須打開，才能使剛剛設定好的馬達對輪胎作動</span></p>
+<p><img src="https://s40723221.github.io/cd2020/images/tool3.png"/></p>
+<p>將撰寫前後左右及加減速程式碼<span>載入v-rep(add &gt; associated&gt; non threaded)</span></p>
+<p><span><img src="https://s40723221.github.io/cd2020/images/tool4.png"/></span></p>
+<p>心得:一開始照著v-rep bubble rob的教程來學習這套軟體，鍵盤控制一開始是3D繪圖軟體將零件轉成stl檔案導入v-rep，設定馬達、動力學參數細項等，之後撰寫程式碼來完成鍵盤控制的部分。沒發現摩擦系數相關的設定可能會有打滑現象，可透過設計改良此問題。</p>
 <p><span style="color: #ff0000;"><strong>week6 </strong></span></p>
 <p>task:</p>
 <p><span>1. According to the material of Topic 0 and Topic 1, can you describe specifically what the mechanical design team need to do for accomplishing Assignment 1's  four wheeled robot.</span></p>
