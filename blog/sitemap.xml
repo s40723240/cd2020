@@ -4,63 +4,63 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>https://s40723240.github.io/cd2020/blog/index.html/</loc>
-<lastmod>2020-04-29T21:40:33-00:00</lastmod>
+<loc>https://s40723240.github.io/cd2020/blog/</loc>
+<lastmod>2020-05-17T00:35:07-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://s40723240.github.io/cd2020/blog/index.html/archives.html</loc>
-<lastmod>2020-04-29T21:40:33-00:00</lastmod>
+<loc>https://s40723240.github.io/cd2020/blog/archives.html</loc>
+<lastmod>2020-05-17T00:35:07-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://s40723240.github.io/cd2020/blog/index.html/tags.html</loc>
-<lastmod>2020-04-29T21:40:33-00:00</lastmod>
+<loc>https://s40723240.github.io/cd2020/blog/tags.html</loc>
+<lastmod>2020-05-17T00:35:07-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://s40723240.github.io/cd2020/blog/index.html/categories.html</loc>
-<lastmod>2020-04-29T21:40:33-00:00</lastmod>
+<loc>https://s40723240.github.io/cd2020/blog/categories.html</loc>
+<lastmod>2020-05-17T00:35:07-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://s40723240.github.io/cd2020/blog/index.html/pages/about/</loc>
+<loc>https://s40723240.github.io/cd2020/blog/pages/about/</loc>
 <lastmod>2020-03-05T15:22:40+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://s40723240.github.io/cd2020/blog/index.html/cd2020 s40723240.html</loc>
+<loc>https://s40723240.github.io/cd2020/blog/cd2020 s40723240.html</loc>
 <lastmod>2020-04-22T11:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://s40723240.github.io/cd2020/blog/index.html/category/misc.html</loc>
+<loc>https://s40723240.github.io/cd2020/blog/category/misc.html</loc>
 <lastmod>2020-04-22T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://s40723240.github.io/cd2020/blog/index.html/tag/s40723240-cd2020.html</loc>
+<loc>https://s40723240.github.io/cd2020/blog/tag/s40723240-cd2020.html</loc>
 <lastmod>2020-04-22T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://s40723240.github.io/cd2020/blog/index.html/author/s40723240.html</loc>
+<loc>https://s40723240.github.io/cd2020/blog/author/s40723240.html</loc>
 <lastmod>2020-04-22T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
