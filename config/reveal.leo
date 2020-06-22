@@ -18,11 +18,17 @@
 <v t="leo.20180902120523.6"><vh>body</vh>
 <v t="leo.20180902120523.7"><vh>reveal div</vh>
 <v t="leo.20180902120523.8"><vh>slides div</vh>
-<v t="leo.20180902120523.9"><vh>封面投影片1</vh>
+<v t="leo.20180902120523.9"><vh>首頁</vh>
 <v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20200422221720.1"><vh>封面投影片2</vh>
+<v t="leo.20200422221720.1"><vh>week1~5</vh>
 <v t="leo.20200422221720.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200622153134.1"><vh>week6~9</vh>
+<v t="leo.20200622153134.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200622153502.1"><vh>week10~17</vh>
+<v t="leo.20200622153502.2"><vh>封面投影片內容</vh></v>
 </v>
 </v>
 </v>
@@ -233,6 +239,48 @@ vertical: body pane on the botton</t>
 #### week3~5:組長開會並分配assignment1任務
 
 [assignment1](https://s40723240.github.io/cd2020/downloads/Assignmemt1.pdf)
+
+</t>
+<t tx="leo.20200622153134.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200622153134.2">## week6~9
+
+#### week6:assignment1任務完成
+#### week7:抽點直播
+#### week8:remote python API講解
+#### week9:期中影片
+
+[week1~9網頁](https://s40723240.github.io/cd2020/content/week1-week9.html)
+
+[assignment1](https://s40723240.github.io/cd2020/downloads/Assignmemt1.pdf)
+
+</t>
+<t tx="leo.20200622153502.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200622153502.2">## week10~17
+
+#### week10:googleAPI
+#### week11:ssh設定
+#### week12:ubuntu virtualbox設定
+#### week13-14:ipv4跟6對外及遠端連線
+#### week15-16:抽點分組及ipv6主機遠端連線
+
+[week10~17網頁](https://s40723240.github.io/cd2020/content/week10-week17.html)
+
 
 </t>
 </tnodes>
