@@ -259,7 +259,7 @@ vertical: body pane on the botton</t>
 
 [week1~9網頁](https://s40723240.github.io/cd2020/content/week1-week9.html)
 
-[assignment1](https://s40723240.github.io/cd2020/downloads/Assignmemt1.pdf)
+[assignment2](https://s40723240.github.io/cd2020/downloads/assignmemt2.pdf)
 
 </t>
 <t tx="leo.20200622153502.1">&lt;section data-markdown&gt;
