@@ -30,6 +30,24 @@
 <v t="leo.20200622153502.1"><vh>week10~17</vh>
 <v t="leo.20200622153502.2"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20200623204550.1"><vh>week11</vh>
+<v t="leo.20200623204550.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200623204552.1"><vh>week12</vh>
+<v t="leo.20200623204552.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200623204554.1"><vh>week13</vh>
+<v t="leo.20200623204554.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200623205039.1"><vh>week14</vh>
+<v t="leo.20200623205039.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200623205041.1"><vh>week15</vh>
+<v t="leo.20200623205041.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200623205310.1"><vh>week16</vh>
+<v t="leo.20200623205310.2"><vh>封面投影片內容</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -240,6 +258,10 @@ vertical: body pane on the botton</t>
 
 [assignment1](https://s40723240.github.io/cd2020/downloads/Assignmemt1.pdf)
 
+[week1~9網頁](https://s40723240.github.io/cd2020/content/week1-week9.html)
+
+
+
 </t>
 <t tx="leo.20200622153134.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -259,7 +281,8 @@ vertical: body pane on the botton</t>
 
 [week1~9網頁](https://s40723240.github.io/cd2020/content/week1-week9.html)
 
-[assignment2](https://s40723240.github.io/cd2020/downloads/assignmemt2.pdf)
+[assignment2](https://s40723240.github.io/cd2020/downloads/assignment2.pdf)
+
 
 </t>
 <t tx="leo.20200622153502.1">&lt;section data-markdown&gt;
@@ -280,6 +303,105 @@ vertical: body pane on the botton</t>
 #### week15-16:抽點分組及ipv6主機遠端連線
 
 [week10~17網頁](https://s40723240.github.io/cd2020/content/week10-week17.html)
+
+[assignment3](https://s40723240.github.io/cd2020/downloads/Assignment3.pdf)
+
+
+
+</t>
+<t tx="leo.20200623204550.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623204550.2">## google用戶登入設定
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/iXfxMBBuNLo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+</t>
+<t tx="leo.20200623204552.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623204552.2">## ipv4對外連線
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/uS2XDsIKon4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+</t>
+<t tx="leo.20200623204554.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623204554.2">## ipv4遠端連線
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/RQbx4Iour4k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;)
+
+
+
+</t>
+<t tx="leo.20200623205039.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623205039.2">## ipv6遠端連線
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/YPcsk8HnAuk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+</t>
+<t tx="leo.20200623205041.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623205041.2">## 不同主機下ipv6遠端連線倉儲
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/JTEpjB1dSKE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+</t>
+<t tx="leo.20200623205310.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623205310.2">## 期末報告
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/HVitgWvItRQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
 
 
 </t>
