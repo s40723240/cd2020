@@ -24,11 +24,20 @@
 <v t="leo.20200422221720.1"><vh>week1~5</vh>
 <v t="leo.20200422221720.2"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20200702005321.1"><vh>week2</vh>
+<v t="leo.20200702005321.2"><vh>封面投影片內容</vh></v>
+</v>
 <v t="leo.20200622153134.1"><vh>week6~9</vh>
 <v t="leo.20200622153134.2"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20200702005618.1"><vh>week7</vh>
+<v t="leo.20200702005618.2"><vh>封面投影片內容</vh></v>
+</v>
 <v t="leo.20200622153502.1"><vh>week10~17</vh>
 <v t="leo.20200622153502.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200702005825.1"><vh>week10.1</vh>
+<v t="leo.20200702005825.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20200623204550.1"><vh>week11</vh>
 <v t="leo.20200623204550.2"><vh>封面投影片內容</vh></v>
@@ -274,7 +283,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200622153134.2">## week6~9
 
-#### week6:assignment1任務完成
+#### week6:assignment2開會
 #### week7:抽點直播
 #### week8:remote python API講解
 #### week9:期中影片
@@ -296,7 +305,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200622153502.2">## week10~17
 
-#### week10:googleAPI
+#### week10:googleAPI和assignment3開會
 #### week11:ssh設定
 #### week12:ubuntu virtualbox設定
 #### week13-14:ipv4跟6對外及遠端連線
@@ -401,6 +410,54 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200623205310.2">## 期末報告
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/HVitgWvItRQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+[finalproject](https://s40723240.github.io/cd2020/downloads/final%20project.pdf)
+
+
+</t>
+<t tx="leo.20200702005321.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200702005321.2">## assignment1開會影片
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/HXS95dlMSv8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+</t>
+<t tx="leo.20200702005618.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200702005618.2">## assignment2開會影片
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/B6zwMXl1V3Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20200702005825.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200702005825.2">## assignment3開會
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/jr4IxIwdHLk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 
 
